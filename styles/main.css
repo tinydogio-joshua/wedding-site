@@ -1,8 +1,7 @@
 body {
+  background: url(../images/shopping.jpg) no-repeat center center fixed;
   background-color: #f5f5f7;
-  background-image: url(../images/shopping.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
+  background-size: cover;
   font-family: 'Cinzel', serif;
 }
 
