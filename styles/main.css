@@ -18,3 +18,8 @@ div {
   position: absolute;
   text-align: center;
 }
+
+.starts {
+  background-color: #ffe294;
+  color: #776c50;
+}
